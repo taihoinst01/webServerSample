@@ -1,6 +1,6 @@
 ﻿BotChat.App({
 	//directLine: { secret: 'bYQ448bwviA.cwA.oWA.fo30ZKfe3F1OIJCoRrs7RStP39WSviOiclDC33h29Ls' }, //onpremis_new
-	directLine: {secret: 'PXLLcE9MLGc.cwA.eME.YYIRumxHwnqmuaaYJz762Jkol6ALUe7nThgkMOb_8bE'}, //onpremis
+	directLine: {secret: 'doiYLN6qe-k.cwA.3rQ.pkj_VE-moZHMtKkP9NwWDisZNe2aBVfNKT2rYvwMKCU'}, //onpremis
 	//directLine: { secret: 'g1-wUK1BHJ8.cwA.hJM.C2hxJgvoj50OaqqF_ZW4B44A4jrr1Lbrm92qt9z4c4g' }, // smartsend
 	//directLine: { secret: '1AAQoATBrDE.cwA.0x8.Pt6g4GRoOanwbR5cGoyyBzuLJkju7vvqX4NC1JpsrpQ' },
 	user: {id: 'userid'},

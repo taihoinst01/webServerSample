@@ -188,7 +188,7 @@ $(document).on('click', '.wc-card > .wc-card-buttons > li > button:contains("현
 		//alert("현재 위치: 위도(" + pos.lat + "), 경도(" + pos.lng + ")");
 		var directLineUrl = "https://directline.botframework.com";
 		//var secretKey = "uFP2fO--bII.cwA.-Ek.VOSBeAGNrhPCwtW61T-9fTnWHhYlkOKbt-Ju6bzZ1b0";
-		var secretKey = "PXLLcE9MLGc.cwA.eME.YYIRumxHwnqmuaaYJz762Jkol6ALUe7nThgkMOb_8bE";
+		var secretKey = "doiYLN6qe-k.cwA.3rQ.pkj_VE-moZHMtKkP9NwWDisZNe2aBVfNKT2rYvwMKCU";
 		var info = JSON.stringify({
 		  type: 'message',
 		  text: 'current location:'+pos.lat+':'+pos.lng,
@@ -211,7 +211,7 @@ $(document).on('click', '.wc-card > .wc-card-buttons > li > button:contains("현
 	}, function(error){
 		alert("에러: " + error.message);
 		var directLineUrl = "https://directline.botframework.com";
-				var secretKey = "PXLLcE9MLGc.cwA.eME.YYIRumxHwnqmuaaYJz762Jkol6ALUe7nThgkMOb_8bE";
+				var secretKey = "doiYLN6qe-k.cwA.3rQ.pkj_VE-moZHMtKkP9NwWDisZNe2aBVfNKT2rYvwMKCU";
 				//var secretKey = "g1-wUK1BHJ8.cwA.hJM.C2hxJgvoj50OaqqF_ZW4B44A4jrr1Lbrm92qt9z4c4g";
 				//var secretKey = "VvL1saGXIWY.cwA.rcg.E8K7RyD7MbSwqBBNHBAxic-SC_unVCTqFfqkxZ_D6Wc";
 				var info = JSON.stringify({
